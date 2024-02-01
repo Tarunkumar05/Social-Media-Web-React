@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import "./login.scss"
+import "./Login.scss"
 import { Link } from 'react-router-dom';
 import { AuthContext } from "../../context/authContext";
 
