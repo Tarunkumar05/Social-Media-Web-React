@@ -1,4 +1,4 @@
-import "./register.scss"
+import "./Register.scss"
 import { Link } from 'react-router-dom';
 
 
